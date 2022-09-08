@@ -1,1 +1,13 @@
---bs-body-font-family: 'Saira', sans-serif;
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url('https://empresas.blogthinkbig.com/wp-content/uploads/2020/11/Como-encontrar-la-ubicacion-ideal-de-un-punto-de-venta-a-traves-de-los-datos.jpg?w=800');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+  }
+  .bgimage h5, .bgimage p {
+    color:#4089ff;
+  }
+
