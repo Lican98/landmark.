@@ -10,11 +10,14 @@
   
 .bgimage h5, .bgimage p {
     color:#4089ff;
+ 
   }
 
-  .contar {
+
+  .center {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100%;
   }
